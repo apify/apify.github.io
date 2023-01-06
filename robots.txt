@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /apify-client-python
+Disallow: /apify-client-js
+Disallow: /apify-docs-v2
+Disallow: /apify-sdk-python
+Disallow: /apify-cli
