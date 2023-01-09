@@ -3,4 +3,5 @@ Disallow: /apify-client-python
 Disallow: /apify-client-js
 Disallow: /apify-docs-v2
 Disallow: /apify-sdk-python
+Disallow: /apify-sdk-js-v2
 Disallow: /apify-cli
